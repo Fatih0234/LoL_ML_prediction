@@ -6,7 +6,7 @@
 <p align="left">
 Hey there, I have analysed the LoL games dataset and predict the game result in this project. 
 If you want to know more about what I have done follow the link
-<a href="" target="blank">
+<a href="https://medium.com/@sekanti02/end-to-end-machine-learning-project-predicting-a-league-of-legends-game-winner-e9437456d63b" target="blank">
 
 </p>
 
